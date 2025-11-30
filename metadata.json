@@ -1,0 +1,5 @@
+{
+  "name": "PokéGemini Explorer",
+  "description": "A cute, minimal Pokémon explorer that uses PokéAPI for data and Gemini API for fun facts and battle strategies.",
+  "requestFramePermissions": []
+}
